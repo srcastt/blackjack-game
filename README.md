@@ -1,19 +1,76 @@
-# Getting Started
-Install the dependencies and run the project
+
+---
+
+# 🃏 Blackjack Game
+
+A simple **Blackjack Card Game** built with **HTML, CSS, and JavaScript**.
+Play the classic casino game in your browser with a clean UI and basic game logic!
+
+---
+
+## 🌐 Live Demo
+
+👉 **[Play on Netlify](https://blackjaack-game-with-js.netlify.app/)**
+
+---
+
+## 📸 Preview
+
+<p align="center">
+  <img src="images/preview.png" alt="Blackjack Game Preview" width="600">
+</p>  
+
+---
+
+## ✨ Features
+
+* 🎴 **Deal Cards** – Start a new round with shuffled cards
+* ➕ **Hit Button** – Draw another card to increase your score
+* ✋ **Stand Button** – End your turn and let the dealer play
+* 🏆 **Win/Lose Messages** – Game outcome displayed dynamically
+* 📱 **Responsive Design** – Works smoothly on desktop & mobile
+
+---
+
+## 🛠️ Tech Stack
+
+* **HTML5** – Structure
+* **CSS3** – Styling & layout
+* **JavaScript (ES6)** – Game logic
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/srcastt/blackjack-game.git
 ```
-npm install
-npm start
-```
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+### 2. Run Locally
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+Simply open `index.html` in your browser.
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+---
 
-Happy Coding!
+## 🎨 Customization
+
+* Update styles in `style.css`
+* Adjust card logic or add more features in `script.js`
+* Replace placeholder images/icons with real card graphics
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License** — free to use and modify.
+
+---
+
+## 👤 Author
+
+Made with ❤️ by **[srcastt](https://github.com/srcastt)**
+
+---
+
